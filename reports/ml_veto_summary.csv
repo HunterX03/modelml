@@ -1,0 +1,13 @@
+strategy,raw_win_rate,raw_trades,win_rate_thr_50,trades_thr_50,win_rate_thr_55,trades_thr_55,win_rate_thr_60,trades_thr_60
+52-Week Breakout + OI,0.6495,311,0.7306,271,0.757,251,0.8134,209
+BB Squeeze,0.6371,124,0.6903,113,0.6972,109,0.7634,93
+Expiry Day Momentum,0.5577,156,0.6357,129,0.629,124,0.6733,101
+FII Divergence,0.6782,923,0.6891,907,0.7017,885,0.7183,852
+Gap and Go / Fade,0.5319,188,0.6122,147,0.624,125,0.6869,99
+Institutional Order Block,0.6852,54,0.75,48,0.766,47,0.875,40
+Momentum + Delivery %,0.6565,425,0.718,383,0.7331,356,0.7839,310
+ORB Modified,0.2,5,,4,,3,,0
+PEAD (Earnings),0.6944,36,0.8571,28,0.88,25,0.9286,14
+Quality Momentum,0.7458,944,0.7497,939,0.7554,928,0.7656,913
+Sector Rotation,0.729,808,0.7387,796,0.7481,782,0.7616,755
+Small Cap Value,0.7364,129,0.7422,128,0.748,127,0.76,125

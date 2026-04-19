@@ -1,0 +1,5 @@
+*.pkl binary
+*.parquet binary
+*.png binary
+*.jpg binary
+*.pdf binary
